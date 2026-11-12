@@ -3,10 +3,10 @@ GA Tech MS CS Course - CS 7470: Mobile & Ubiquitous Computing
 
 A set of Arduino prototypes built on an ELEGOO UNO R3 (Arduino-compatible),
 progressing from basic digital I/O to a complete sensor-driven interactive
-system. Each project reads inputs, processes them in firmware, and drives
-outputs — the core loop behind any embedded interactive device.
+system. Each task reads inputs, processes them in Arduino, and drives the
+outputs
 
-Written in C/C++ (Arduino framework) and tested on real hardware.
+Written in C/C++ (Arduino framework) and tested on hardware.
 
 ---
 
