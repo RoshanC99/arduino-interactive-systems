@@ -1,4 +1,5 @@
 # Arduino Interactive Systems
+GA Tech MS CS Course - CS 7470: Mobile & Ubiquitous Computing
 
 A set of Arduino prototypes built on an ELEGOO UNO R3 (Arduino-compatible),
 progressing from basic digital I/O to a complete sensor-driven interactive
